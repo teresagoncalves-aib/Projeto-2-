@@ -1,0 +1,40 @@
+body {
+    background-color: #141414;
+    color: #FFFFFF;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Títulos */
+h1, h2 {
+    color: #E50914;
+    font-family: 'Georgia', serif;
+}
+
+/* Destaque */
+.destaque {
+    background-color: #222222;
+    padding: 10px;
+    border-left: 4px solid #E50914;
+    margin: 15px 0;
+}
+
+/* Divs */
+div {
+    margin-bottom: 8px;
+}
+
+
+
+/* 
+   1. Desafio Técnico:
+      A regra mais complicada para mim foi ajustar a classe .destaque. Foi difícil acertar o número de pixels necessário da margem e do padding da caixa para esta não ficar nem muito grande nem colada ao texto. Resolvi o problema experimentando vários valores em pixels no Notepad++ e atualizando a página até gostar do resultado.
+
+   2. Correção de Sintaxe:
+      O erro em que caí mais vezes foi esquecer-me dos pontos e vírgulas (;) no fim de cada linha de estilo e de fechar as chavetas ({}). 
+
+   3. Autoria:
+      O atributo "src" serve para indicar ao navegador onde está guardada a imagem que queremos mostrar, para que a página a consiga carregar e exibir no sítio certo.
+*/
+
+
